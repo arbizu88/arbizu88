@@ -1,5 +1,12 @@
-### Hi there 👋
+Hey there :wave:
 
+I'm Carlos, I am a Software Developer from Costa Rica :costa_rica:
+
+### About
+You can follow me on:
+<p align='left'>
+<a href="https://www.linkedin.com/in/carlos-hidalgo-57496997"><img height="30" src="https://github.com/arbizu88/arbizu88/icons/linkedin.png?raw=true"></a>
+</p>
 <!--
 **arbizu88/arbizu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
