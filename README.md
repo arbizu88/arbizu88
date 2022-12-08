@@ -2,8 +2,8 @@ Hey there :wave:
 
 I'm Carlos, a Software Developer from Costa Rica :costa_rica:
 
-# 💫 About Me:
-🔭 I'm currently working on Springboot and Java with React.js
+# 🤖 About Me:
+I'm currently working with Springboot/Java and React.js
 
 
 ## 🌐 Socials:
